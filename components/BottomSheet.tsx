@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
 	bottomSheetContainer: {
 		height: SCREEN_HEIGHT / 2,
 		width: "100%",
-		backgroundColor: "white",
+		backgroundColor: "yellow",
 		position: "absolute",
 		top: SCREEN_HEIGHT,
 		borderRadius: 25,
